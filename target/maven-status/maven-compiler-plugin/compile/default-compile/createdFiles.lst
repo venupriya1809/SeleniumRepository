@@ -1,0 +1,9 @@
+com\qa\pages\LoginPage.class
+com\qa\Utilities\ConfigReader.class
+com\qa\base\BaseSingleton.class
+com\qa\Utilities\BaseTestScreenshot.class
+com\qa\pages\HomePage.class
+Selenium\launchingbrowser.class
+com\qa\base\Readproperties.class
+com\qa\base\TestBase.class
+com\qa\Utilities\TestUtil.class
