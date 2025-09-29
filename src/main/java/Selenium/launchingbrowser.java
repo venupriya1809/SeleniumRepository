@@ -13,6 +13,7 @@ public class launchingbrowser {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
+		System.out.println("FIRST NEW CHANGES AFTER PULL");
 	}
 
 }
