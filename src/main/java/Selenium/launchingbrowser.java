@@ -15,6 +15,7 @@ public class launchingbrowser {
 		System.out.println(driver.getTitle());
 		System.out.println("FIRST NEW CHANGES AFTER PULL");
 		System.out.println("FIRST NEW CHANGES AFTER PULL GITHUB LOCAL TO MASTERBRANCH VALIDATION");
+		System.out.println("FIRST NEW CHANGES AFTER PULL GITHUB LOCAL TO MASTERBRANCH VALIDATION");
 	}
 
 }
